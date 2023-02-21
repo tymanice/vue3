@@ -28,6 +28,7 @@ export default {
         <div>
             <Button label="Submit" />
         </div>
+        <h2>checking github</h2>
  </template>
 
  <style>
